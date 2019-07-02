@@ -1,7 +1,7 @@
 $primary-color: #444;
 $secondary-color: #db484e;
 $show-home-image: true;
-$home-image: url(/dist/img/phone.png);
+$home-image: url("/dist/img/phone.png");
 $background-opacity: 0.6;
 
 @mixin easeOut {
