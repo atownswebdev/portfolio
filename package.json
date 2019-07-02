@@ -1,9 +1,9 @@
 {
-  "name": "portfolio",
+  "name": "modern_portfolio",
   "version": "1.0.0",
   "description": "Responsive Portfolio Website",
   "main": "index.js",
-  "homepage": "https://atownswebdev.github.io/Portfolio",
+  "homepage": "https://atownswebdev.github.io/modern_portfolio",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.12.0"
@@ -15,11 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atownswebdev/Portfolio.git"
+    "url": "git+https://github.com/atownswebdev/modern_portfolio.git"
   },
   "author": "\"Arieus Towns\"",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atownswebdev/Portfolio/issues"
+    "url": "https://github.com/atownswebdev/modern_portfolio/issues"
   }
 }
