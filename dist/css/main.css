@@ -178,6 +178,7 @@ body#bg-img {
   background: url(../img/desk.png);
   background-attachment: fixed;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 body#bg-img .overlay {
